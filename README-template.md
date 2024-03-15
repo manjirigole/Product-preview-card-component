@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-grids-flex-etc-6tK1Jev1EN
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://manjirigole.github.io/Product-preview-card-component/
 
 ## My process
 
