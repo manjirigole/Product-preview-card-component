@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-grids-flex-etc-6tK1Jev1EN
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -39,7 +39,7 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - https://www.frontendmentor.io/profile/manjirigole
 
 ## Acknowledgments
 
